@@ -1,8 +1,8 @@
-﻿
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public static class Data {
-    public static int banuti=0;  
+public static class Data 
+{
+    public static int banut = 0;
 }
